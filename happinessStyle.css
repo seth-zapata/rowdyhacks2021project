@@ -1,0 +1,23 @@
+body {
+    background-image: url("images/happybg.png");
+    background-size: 95% 13500%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+.home {
+    background-color: white;
+    border: 3px solid black;
+}
+
+.image {
+    border-collapse: separate;
+    overflow: hidden;
+    border-radius: 100px;
+}
+
+.cheer {
+    border-collapse: separate;
+    overflow: hidden;
+    height: 500px;
+    border-radius: 100px;
+}

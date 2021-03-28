@@ -1,0 +1,18 @@
+body {
+    background-image: url("images/stronger.png");
+    background-repeat: no-repeat;
+    background-size: 105% 12000%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+.home {
+    background-color: white;
+    border: 3px solid black;
+}
+
+.image {
+    border-collapse: separate;
+    overflow: hidden;
+    border-radius: 100px;
+}
+

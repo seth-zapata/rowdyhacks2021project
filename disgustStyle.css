@@ -1,0 +1,24 @@
+body {
+    background-image: url("images/disgustbg.png");
+    background-repeat: no-repeat;
+    background-size: 57% 100vh;
+    background-position: top;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+.home {
+    background-color: white;
+    border: 3px solid black;
+}
+
+.image {
+    border-collapse: separate;
+    overflow: hidden;
+    border-radius: 100px;
+}
+
+.disgust {
+    border-collapse: separate;
+    overflow: hidden;
+    border-radius: 20px;
+}
